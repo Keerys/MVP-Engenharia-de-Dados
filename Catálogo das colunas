@@ -1,0 +1,41 @@
+Descrição das colunas do banco de dados
+
+steam_id - Número do ID do jogador na plataforma Steam
+name - Nome do jogador
+team_name - Nome do time
+kill_count - Número de inimigos derrubados(kills)
+assist_count - Número de assistências(assists)
+death_count - Número de mortes(deaths)
+kd - Proporção número de inimigos derrubados(kills)/número de mortes(deaths)
+score - Nota total
+mvp - Número de prêmios MVP(melhor jogador do round)
+headshot_count - Número de inimigos derrubados com tiro na cabeça(headshot)
+headshot_percentage - Porcecntagem de inimigos derrubados com tiro na cabeça(headshot)
+kast - O impacto causado pelo jogador
+damage_health - Número de dano causado pelo jogador
+damage_armor - Número de dano causado em coletes(armor) pelo jogador
+first_kill_count - Número de vezes que o jogador derrubou o primeiro jogador no round(first kill) 
+first_death_count - Número de vezes que o jogador foi o primerio a ser derrubado no round(first death)
+adr - Média de dando por round(Average damage per round)
+1v1 - Número de vezes que o jogador ficou sozinho no round contra 1 jogador
+1v2 - Número de vezes que o jogador ficou sozinho no round contra 2 jogadores
+1v3 - Número de vezes que o jogador ficou sozinho no round contra 3 jogadores
+1v4 - Número de vezes que o jogador ficou sozinho no round contra 4 jogadores
+1v5 - Número de vezes que o jogador ficou sozinho no round contra 5 jogadores
+1v1_won - Número de vezes que o jogador ganhou rounds que ficou sozinho contra 1 jogador
+1v2_won - Número de vezes que o jogador ganhou rounds que ficou sozinho contra 2 jogadores
+1v3_won - Número de vezes que o jogador ganhou rounds que ficou sozinho contra 3 jogadores
+1v4_won - Número de vezes que o jogador ganhou rounds que ficou sozinho contra 4 jogadores
+1v5_won - Número de vezes que o jogador ganhou rounds que ficou sozinho contra 5 jogadores
+1v1_lost - Número de vezes que o jogador perdeu rounds que ficou sozinho contra 1 jogador
+1v2_lost - Número de vezes que o jogador perdeu rounds que ficou sozinho contra 2 jogadores
+1v3_lost - Número de vezes que o jogador perdeu rounds que ficou sozinho contra 3 jogadores
+1v4_lost - Número de vezes que o jogador perdeu rounds que ficou sozinho contra 4 jogadores
+1v5_lost - Número de vezes que o jogador perdeu rounds que ficou sozinho contra 5 jogadores
+bomb_planted_count - Número de vezes que o jogador plantou a bomba
+bomb_defused_count - Número de vezes que o jogador defusou a bomba
+k1 - Número de vezes que o jogador derrubou 1 jogador no round
+k2 - Número de vezes que o jogador derrubou 2 jogadores no round
+k3 - Número de vezes que o jogador derrubou 3 jogadores no round
+k4 - Número de vezes que o jogador derrubou 4 jogadores no round
+k5 - Número de vezes que o jogador derrubou 5 jogadores no round
